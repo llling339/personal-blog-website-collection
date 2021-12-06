@@ -21,8 +21,10 @@
 
 10 https://www.rws.com/language-weaver/the-neural-mt-weekly/ - check this
 
-11 原创博客技术联盟 http://techblog.pub/ ?
+11 苏建林 https://spaces.ac.cn/
 
-12 Brief Summary of No Rules Rules Netflix and the Culture of Reinvention - Reed Hastings and Erin Meyer
+12 Brief Summary of No Rules Rules Netflix and the Culture of Reinvention(https://srinathramakrishnan.files.wordpress.com/2020/10/brief-summary-of-rules-no-rules.pdf) - Reed Hastings and Erin Meyer
 
 13 https://trinkle23897.github.io/
+
+14 鳥哥的 Linux 私房菜 http://linux.vbird.org/
