@@ -5,7 +5,8 @@
 
 2 刘未鹏 http://mindhacks.cn/
 
-3 田渊栋 https://www.zhihu.com/people/tian-yuan-dong
+3 田渊栋 https://www.zhihu.com/people/tian-yuan-dong http://blog.sina.cn/dpool/blog/s/blog_946b64360102uzfe.html?type=-1
+
 我真的很喜欢这篇：https://yuandong-tian.com/five_year_summary_of_PhD.pdf
 
 4 阮一峰的网络日志 http://www.ruanyifeng.com/blog/
@@ -38,4 +39,8 @@
 
 18 李沐 https://www.zhihu.com/people/mli65 https://github.com/mli/paper-reading
 
-19
+19 https://11011110.github.io/blog/
+
+20 https://www.technologyreview.com/
+
+21 
