@@ -6,6 +6,7 @@
 2 刘未鹏 http://mindhacks.cn/
 
 3 田渊栋 https://www.zhihu.com/people/tian-yuan-dong
+我真的很喜欢这篇：https://yuandong-tian.com/five_year_summary_of_PhD.pdf
 
 4 阮一峰的网络日志 http://www.ruanyifeng.com/blog/
 
@@ -33,4 +34,8 @@
 
 16 张俊林 https://www.zhihu.com/column/c_188941548
 
-17 
+17 Bill Gates https://www.gatesnotes.com/
+
+18 李沐 https://www.zhihu.com/people/mli65 https://github.com/mli/paper-reading
+
+19
