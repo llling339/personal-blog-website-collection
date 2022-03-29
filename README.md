@@ -44,3 +44,5 @@
 20 https://www.technologyreview.com/
 
 21 https://evjang.com/ very intuitive 
+
+22 https://terrytao.wordpress.com/2008/06/18/the-strong-law-of-large-numbers/ [ probability oh probability ]
