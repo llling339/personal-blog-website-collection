@@ -48,3 +48,5 @@
 22 https://terrytao.wordpress.com/2008/06/18/the-strong-law-of-large-numbers/ [ probability oh probability ]
 
 23 https://www.foldl.me/ captivating
+
+24 https://github.com/halfrost 
